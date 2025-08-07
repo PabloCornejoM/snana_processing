@@ -15,7 +15,7 @@ def test_with_actual_data():
     """Test Bazin fitting with actual supernova data"""
     
     # Path to your data file
-    data_file = "notebooks/symbolic_regression_data/SNIa-SALT2/sample_0_band_i _sr.csv"
+    data_file = "notebooks/symbolic_regression_data/SNIa-SALT2/sample_100_band_i _sr.csv"
     
     print("Testing Bazin fit with actual supernova data...")
     print(f"Loading data from: {data_file}")
